@@ -40,7 +40,7 @@ def fix_indent(s):
     return s
 
 URL_FORMAT = "http://www.anissia.net/anitime/list?w={}"
-DOTW = [ "[{}]".format(x) for x in [ "일", "월", "화", "수", "목", "금", "토" ] ]
+DOTW = [ "일", "월", "화", "수", "목", "금", "토" ]
 
 def get_json_data(url):
     rs = rq.get(url)
@@ -54,7 +54,7 @@ def test(filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ])):
         6: Saturday
     """
     for i in range(7):
-        result.append(DOTW[i])
+        result.append("[{}] {}".format(DOTW[i], URL_FORMAT.format(i)))
         result.append('')
         w = get_json_data(URL_FORMAT.format(i))
         w = fix_indent(pf(w))

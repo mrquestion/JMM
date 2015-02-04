@@ -52,7 +52,7 @@ def test(dotw, filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ])
     w = [ objdict(x) for x in get_json_data(URL_FORMAT1.format(dotw)) ]
     for a in w:
         s = get_json_data(URL_FORMAT2.format(a.i)) # a["i"]
-        result.append("[{}]".format(a.s))
+        result.append("[{}] {}".format(a.s, URL_FORMAT2.format(a.i)))
         result.append(fix_indent(pf(s)))
     with open(filename, "wb") as wbo:
         wbo.write('\n'.join(result).encode())
