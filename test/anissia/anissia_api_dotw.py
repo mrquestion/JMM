@@ -56,9 +56,9 @@ def test(filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ])):
     for i in range(7):
         result.append(DOTW[i])
         result.append('')
-        data = get_json_data(URL_FORMAT.format(i))
-        data = fix_indent(pf(data))
-        result.append(data)
+        w = get_json_data(URL_FORMAT.format(i))
+        w = fix_indent(pf(w))
+        result.append(w)
         result.append('')
         result.append('')
 
