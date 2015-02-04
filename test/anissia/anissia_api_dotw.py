@@ -40,7 +40,7 @@ def get_json_data(url):
     return json.loads(rs.text if rs.ok else "[]")
 
 def fix_indent(s):
-    s = re.sub(r"(\[)", "\\1\n ", pf(s))
+    s = re.sub(r"(\[)", "\\1\n ", s)
     s = re.sub(r"(\])", "\n\\1", s)
     s = re.sub(r"({)", "\\1\n     ", s)
     s = re.sub(r"((\s*)(\s{4}))(.*)(},?)", "\\1\\4\\2\\5", s)
@@ -57,7 +57,7 @@ def test(filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ])):
             wo.write(DOTW[i])
             wo.write('\n')
             data = get_json_data(URL_FORMAT.format(i))
-            data = fix_indent(data)
+            data = fix_indent(pf(data))
             wo.write(data)
             wo.write('\n\n')
 
