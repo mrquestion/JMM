@@ -44,22 +44,26 @@ DOTW = [ "[{}]".format(x) for x in [ "일", "월", "화", "수", "목", "금", "
 
 def get_json_data(url):
     rs = rq.get(url)
-    return json.loads(rs.text if rs.ok else "[]")
+    return json.loads(rs.text if rs.ok and rs.text is not None else "[]")
 
 def test(filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ])):
-    with open(filename, 'wb') as wo:
-        """ 0: Sunday,
-            1: Monday
-            ...
-            6: Saturday
-        """
-        for i in range(7):
-            wo.write(DOTW[i].encode())
-            wo.write(b'\n')
-            data = get_json_data(URL_FORMAT.format(i))
-            data = fix_indent(pf(data))
-            wo.write(data.encode())
-            wo.write(b'\n\n')
+    result = []
+    """ 0: Sunday,
+        1: Monday
+        ...
+        6: Saturday
+    """
+    for i in range(7):
+        result.append(DOTW[i])
+        result.append('')
+        data = get_json_data(URL_FORMAT.format(i))
+        data = fix_indent(pf(data))
+        result.append(data)
+        result.append('')
+        result.append('')
+
+    with open(filename, "wb") as wbo:
+        wbo.write('\n'.join(result).encode())
 
 def main(argc, args):
     test()

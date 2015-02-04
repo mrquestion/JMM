@@ -20,7 +20,6 @@ def pf(s): return pprint.pformat(s, indent=4, width=80)
 #def ppmems(o): pp(mems(o))
 
 URL_FORMAT = "http://www.anissia.net/anitime/cap?i={}"
-URL_FORMAT = "http://www.anissia.net/anitime/list?w={}"
 DOTW = [ "[{}]".format(x) for x in [ "일", "월", "화", "수", "목", "금", "토" ] ]
 
 def get_json_data(url):
@@ -34,13 +33,24 @@ def fix_indent(s):
     s = re.sub(r"((\s*)(\s{4}))(.*)(},?)", "\\1\\4\\2\\5", s)
     return s
 
-def test(filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ])):
-    for i in range(6):
-        data = get_json_data(URL_FORMAT.format(i))
-        print(DOTW[i], len(data))
+def test(dotw, filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ])):
+    with open(filename, 'wb') as wo:
+        """ 0: Sunday,
+            1: Monday
+            ...
+            6: Saturday
+        """
+		data = get_json_data(URL_FORMAT.format(dotw))
+        for i in range(7):
+            wo.write(DOTW[i].encode())
+            wo.write(b'\n')
+            data = get_json_data(URL_FORMAT.format(i))
+            data = fix_indent(pf(data))
+            wo.write(data.encode())
+            wo.write(b'\n\n')
 
 def main(argc, args):
-    test()
+    test(5)
 
 if __name__ == "__main__":
     main(len(sys.argv), sys.argv)
