@@ -32,19 +32,19 @@ def pf(s): return pprint.pformat(s, indent=4, width=80)
 #def ppargs(f): pp(args(f))
 #def ppmems(o): pp(mems(o))
 
-URL_FORMAT = "http://www.anissia.net/anitime/list?w={}"
-DOTW = [ "[{}]".format(x) for x in [ "일", "월", "화", "수", "목", "금", "토" ] ]
-
-def get_json_data(url):
-    rs = rq.get(url)
-    return json.loads(rs.text if rs.ok else "[]")
-
 def fix_indent(s):
     s = re.sub(r"(\[)", "\\1\n ", s)
     s = re.sub(r"(\])", "\n\\1", s)
     s = re.sub(r"({)", "\\1\n     ", s)
     s = re.sub(r"((\s*)(\s{4}))(.*)(},?)", "\\1\\4\\2\\5", s)
     return s
+
+URL_FORMAT = "http://www.anissia.net/anitime/list?w={}"
+DOTW = [ "[{}]".format(x) for x in [ "일", "월", "화", "수", "목", "금", "토" ] ]
+
+def get_json_data(url):
+    rs = rq.get(url)
+    return json.loads(rs.text if rs.ok else "[]")
 
 def test(filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ])):
     with open(filename, 'w') as wo:
