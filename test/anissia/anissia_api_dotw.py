@@ -54,11 +54,12 @@ def test(filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ])):
             6: Saturday
         """
         for i in range(6):
-            wo.write(os.linesep.join([ DOTW[i], '', '' ]))
+            wo.write(DOTW[i])
+            wo.write('\n')
             data = get_json_data(URL_FORMAT.format(i))
             data = fix_indent(data)
             wo.write(data)
-            wo.write(os.linesep)
+            wo.write('\n\n')
 
 def main(argc, args):
     test()
