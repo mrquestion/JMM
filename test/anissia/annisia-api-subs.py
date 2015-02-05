@@ -4,8 +4,6 @@ import os, sys
 import re
 import json
 import requests as rq
-from lxml import etree
-etree.namespaces = dict(re="http://exslt.org/regular-expressions")
 
 import time, datetime
 def timestamp(format="%Y%m%d-%H%M%S", time=time.time(), rfc=None):

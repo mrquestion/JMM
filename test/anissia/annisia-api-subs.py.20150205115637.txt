@@ -1,0 +1,724 @@
+[일]
+
+[알드노아. 제로] http://www.anissia.net/anitime/cap?i=3075
+[
+    {
+        'a': 'parang567.blog.me/220259001214',
+        'd': '20150201034918',
+        'n': '글라이더',
+        's': '00160'
+    },
+    {
+        'a': 'blog.noitamina.moe/220258972586',
+        'd': '20150201022026',
+        'n': '하느',
+        's': '00160'
+    },
+    {
+        'a': 'fuko.tistory.com/1584',
+        'd': '20150201014717',
+        'n': 'stankovic',
+        's': '00160'
+    }
+]
+[DOG DAYS''] http://www.anissia.net/anitime/cap?i=1524
+[
+    {
+        'a': 'mglna.tistory.com/509',
+        'd': '20150201132556',
+        'n': '천상',
+        's': '00040'
+    },
+    {
+        'a': 'kwangwaul.egloos.com/5864557',
+        'd': '20150201030414',
+        'n': '여니',
+        's': '00040'
+    },
+    {
+        'a': 'stadtfeld.tistory.com/636',
+        'd': '20150201024240',
+        'n': '슈펠',
+        's': '00040'
+    }
+]
+[크로스앙쥬 천사와 용의 윤무] http://www.anissia.net/anitime/cap?i=3227
+[
+ {
+     'a': 'prisis.tistory.com', 'd': '20150201074534', 'n': '프리시스', 's': '00170'
+ }
+]
+[롤링☆걸즈] http://www.anissia.net/anitime/cap?i=3224
+[
+    {
+        'a': 'chouryou.blog.me/220259030112',
+        'd': '20150201064500',
+        'n': '쵸우료우',
+        's': '00040'
+    },
+    {
+     'a': 'bbmi.kr', 'd': '20150201060235', 'n': '불법미인', 's': '00040'
+ }
+]
+[쿠로코의 농구 3기] http://www.anissia.net/anitime/cap?i=3166
+[
+    {
+        'a': 'ta2hisa.tistory.com/94',
+        'd': '20150201141958',
+        'n': '리안',
+        's': '00040'
+    },
+    {
+        'a': 'blog.naver.com/baby1255/220259031830',
+        'd': '20150201065813',
+        'n': '파Oi',
+        's': '00540'
+    }
+]
+[월드 트리거] http://www.anissia.net/anitime/cap?i=3163
+[
+    {
+        'a': 'blog.naver.com/baby1255/220251406579',
+        'd': '20150125103923',
+        'n': '파Oi',
+        's': '00150'
+    }
+]
+[다이아몬드A] http://www.anissia.net/anitime/cap?i=1310
+[
+    {
+        'a': 'spinel.egloos.com/5265423',
+        'd': '20150201131146',
+        'n': '스피넬',
+        's': '00670'
+    }
+]
+[해피니스 차지 프리큐어!] http://www.anissia.net/anitime/cap?i=1508
+[
+ 
+]
+[Go! 프린세스 프리큐어] http://www.anissia.net/anitime/cap?i=3342
+[
+ 
+]
+[드래곤볼Kai 마인 부우 편] http://www.anissia.net/anitime/cap?i=3079
+[
+    {
+        'a': 'blog.naver.com/daku99/220249261249',
+        'd': '20150123011729',
+        'n': 'daku',
+        's': '00400'
+    }
+]
+[원피스] http://www.anissia.net/anitime/cap?i=1314
+[
+ 
+]
+[일곱 개의 대죄] http://www.anissia.net/anitime/cap?i=3216
+[
+    {
+        'a': 'ta2hisa.tistory.com/97',
+        'd': '20150202161304',
+        'n': '리안',
+        's': '00160'
+    },
+    {
+        'a': 'fuko.tistory.com/1585',
+        'd': '20150201201100',
+        'n': 'stankovic',
+        's': '00160'
+    }
+]
+[유희왕 ARC-V] http://www.anissia.net/anitime/cap?i=3080
+[
+ 
+]
+[앱솔루트 듀오] http://www.anissia.net/anitime/cap?i=3212
+[
+    {
+        'a': 'cndska15.blog.me/220259890548',
+        'd': '20150202040720',
+        'n': '코야레인',
+        's': '00050'
+    },
+    {
+        'a': 'blog.naver.com/gkgk6265/220259684043',
+        'd': '20150201224339',
+        'n': 'LN 타치바나',
+        's': '00050'
+    }
+]
+[밤의 얏타맨] http://www.anissia.net/anitime/cap?i=3287
+[
+    {
+        'a': 'ilovealpaca.tistory.com/190',
+        'd': '20150202100437',
+        'n': '알파카맨',
+        's': '00040'
+    }
+]
+[모두 모여라! 팔콤학원 SC] http://www.anissia.net/anitime/cap?i=3241
+[
+    {
+        'a': 'blog.naver.com/dnjfdydlf2',
+        'd': '20150203023111',
+        'n': 'ChOfH6',
+        's': '00050'
+    }
+]
+[순결의 마리아] http://www.anissia.net/anitime/cap?i=643
+[
+    {
+        'a': 'chouryou.blog.me/220259887614',
+        'd': '20150202035000',
+        'n': '쵸우료우',
+        's': '00040'
+    },
+    {
+        'a': 'hakerano.blog.fc2.com/',
+        'd': '20150202031029',
+        'n': '하케라노',
+        's': '00040'
+    }
+][월]
+
+[성검사의 금주영창] http://www.anissia.net/anitime/cap?i=3090
+[
+    {
+        'a': 'blog.naver.com/qtr01122/220259938003',
+        'd': '20150202081636',
+        'n': '카이란',
+        's': '00040'
+    }
+]
+[전국무쌍] http://www.anissia.net/anitime/cap?i=3292
+[
+ 
+]
+[오레카 배틀 & 드래곤 컬렉션] http://www.anissia.net/anitime/cap?i=3081
+[
+ 
+]
+[히어로 뱅크] http://www.anissia.net/anitime/cap?i=3042
+[
+ 
+][화]
+
+[유리쿠마 아라시] http://www.anissia.net/anitime/cap?i=3262
+[
+    {
+        'a': 'ogura-yui.moe/220261052235',
+        'd': '20150203043005',
+        'n': '코코렛',
+        's': '00050'
+    },
+    {
+        'a': 'blog.naver.com/cobb333/220261045987',
+        'd': '00000000000000',
+        'n': 'THE빅오',
+        's': '00050'
+    }
+]
+[겁쟁이 페달 GRANDE ROAD] http://www.anissia.net/anitime/cap?i=3153
+[
+    {
+        'a': 'haniani.net/xe/167517',
+        'd': '20150203175321',
+        'n': 'i하늘i처럼i',
+        's': '00160'
+    }
+]
+[오늘부터 신령님◎] http://www.anissia.net/anitime/cap?i=3225
+[
+    {
+        'a': 'spinel.egloos.com/5265683',
+        'd': '20150203124606',
+        'n': '스피넬',
+        's': '00040'
+    }
+]
+[마진본] http://www.anissia.net/anitime/cap?i=3083
+[
+    {
+        'a': 'asterix.tistory.com/',
+        'd': '00000000000000',
+        'n': 'feder07',
+        's': '00000'
+    }
+]
+[새벽의 연화] http://www.anissia.net/anitime/cap?i=3205
+[
+ 
+][수]
+
+[미남 고교 지구 방위부 LOVE!] http://www.anissia.net/anitime/cap?i=3267
+[
+    {
+        'a': 'godsungin.tistory.com/76',
+        'd': '20150204162840',
+        'n': '갓성인',
+        's': '00050'
+    },
+    {
+        'a': 'blog.naver.com/qtr01122/220262226246',
+        'd': '20150204080359',
+        'n': '카이란',
+        's': '00050'
+    }
+]
+[건담 빌드 파이터즈 트라이] http://www.anissia.net/anitime/cap?i=3151
+[
+    {
+        'a': 'fuko.tistory.com/1586',
+        'd': '20150204195830',
+        'n': 'stankovic',
+        's': '00170'
+    }
+]
+[디스크 워즈 : 어벤져스] http://www.anissia.net/anitime/cap?i=3084
+[
+ 
+]
+[밀리터리!] http://www.anissia.net/anitime/cap?i=3313
+[
+    {
+        'a': 'kannasub.tistory.com/entry/밀리터리-5화-자막',
+        'd': '20150205014609',
+        'n': 'kanna',
+        's': '00050'
+    }
+][목]
+
+[함대 컬렉션 ~칸코레~] http://www.anissia.net/anitime/cap?i=1522
+[
+    {
+     'a': 'r-kai.wo.tc', 'd': '20150205074825', 'n': 'Alvarez', 's': '00050'
+ },
+    {
+        'a': 'ogura-yui.moe/220255799986',
+        'd': '20150129051429',
+        'n': '코코렛',
+        's': '00040'
+    },
+    {
+        'a': 'blog.naver.com/es_ryusi/220263387497',
+        'd': '00000000000000',
+        'n': '류시',
+        's': '00050'
+    }
+]
+[기생수] http://www.anissia.net/anitime/cap?i=1644
+[
+    {
+        'a': 'utpasiirs.tistory.com/',
+        'd': '20150205104746',
+        'n': 'UTPasiirs',
+        's': '00170'
+    },
+    {
+        'a': 'ilovealpaca.tistory.com/191',
+        'd': '20150205064245',
+        'n': '알파카맨',
+        's': '00170'
+    }
+]
+[새 여동생 마왕의 계약자] http://www.anissia.net/anitime/cap?i=3228
+[
+    {
+        'a': 'mglna.tistory.com/510',
+        'd': '20150205114751',
+        'n': '천상',
+        's': '00050'
+    }
+]
+[아이카츠!] http://www.anissia.net/anitime/cap?i=1349
+[
+    {
+        'a': 'cndska15.blog.me/220256968647',
+        'd': '20150130030724',
+        'n': '코야레인',
+        's': '01180'
+    },
+    {
+        'a': 'feder07.blog.fc2.com/',
+        'd': '20140302091250',
+        'n': 'feder07',
+        's': '00620'
+    }
+]
+[포켓몬스터 XY] http://www.anissia.net/anitime/cap?i=1350
+[
+    {
+        'a': 'jic3940.blog.me/220256761391',
+        'd': '20150129223718',
+        'n': 'DJay',
+        's': '00580'
+    }
+]
+[나루토 질풍전] http://www.anissia.net/anitime/cap?i=1351
+[
+ 
+]
+[혈액형 군! 2] http://www.anissia.net/anitime/cap?i=3290
+[
+ 
+]
+[SHIROBAKO] http://www.anissia.net/anitime/cap?i=3221
+[
+    {
+        'a': 'kwangwaul.egloos.com/5864289',
+        'd': '20150130032703',
+        'n': '여니',
+        's': '00160'
+    },
+    {
+        'a': 'kiribasi.moe/140',
+        'd': '20141228034135',
+        'n': '키리바시',
+        's': '00110'
+    },
+    {
+     'a': '', 'd': '00000000000000', 'n': '라피', 's': '00000'
+ }
+][금]
+
+[도쿄 구울√A] http://www.anissia.net/anitime/cap?i=3331
+[
+    {
+        'a': 'blog.naver.com/qlgy',
+        'd': '20150130195500',
+        'n': '비효',
+        's': '00040'
+    },
+    {
+        'a': 'fuko.tistory.com/1581',
+        'd': '20150130012856',
+        'n': 'stankovic',
+        's': '00040'
+    }
+]
+[시원찮은 그녀를 위한 육성방법] http://www.anissia.net/anitime/cap?i=3102
+[
+    {
+     'a': 'bbmi.kr', 'd': '20150130045720', 'n': '불법미인', 's': '00030'
+ },
+    {
+        'a': 'mglna.tistory.com/506',
+        'd': '20150130041235',
+        'n': '천상',
+        's': '00030'
+    }
+]
+[4월은 너의 거짓말] http://www.anissia.net/anitime/cap?i=3105
+[
+    {
+        'a': 'rosslyn.tistory.com/1441',
+        'd': '20150130211028',
+        'n': '까만양군',
+        's': '00150'
+    },
+    {
+        'a': 'spinel.egloos.com/5265156',
+        'd': '20150130040448',
+        'n': '스피넬',
+        's': '00150'
+    }
+]
+[행복 그래피티] http://www.anissia.net/anitime/cap?i=3184
+[
+    {
+        'a': 'ogura-yui.moe/220257011258',
+        'd': '20150130063848',
+        'n': '코코렛',
+        's': '00040'
+    }
+]
+[건담 G의 레콘기스타] http://www.anissia.net/anitime/cap?i=3103
+[
+    {
+        'a': 'blog.noitamina.moe/220257569886',
+        'd': '20150130170302',
+        'n': '하느',
+        's': '00180'
+    },
+    {
+        'a': 'prisis.tistory.com',
+        'd': '20150130113824',
+        'n': '프리시스',
+        's': '00180'
+    }
+]
+[총황무진 파프니르] http://www.anissia.net/anitime/cap?i=3209
+[
+    {
+        'a': 'siranami.blog.me/220257140722',
+        'd': '20150130104526',
+        'n': '람찡',
+        's': '00040'
+    },
+    {
+        'a': 'cndska15.blog.me/220257040358',
+        'd': '20150130083839',
+        'n': '코야레인',
+        's': '00040'
+    },
+    {
+        'a': 'godsungin.tistory.com/category/예정자막/《火》총황무진%20파프닐',
+        'd': '00000000000000',
+        'n': '갓성인',
+        's': '00000'
+    }
+]
+[창궁의 파프너 EXODUS] http://www.anissia.net/anitime/cap?i=1545
+[
+    {
+        'a': 'blog.naver.com/as2ar1/220257069506',
+        'd': '20150130101527',
+        'n': '앗사리',
+        's': '00040'
+    },
+    {
+        'a': 'prisis.tistory.com/660',
+        'd': '20150130071850',
+        'n': '프리시스',
+        's': '00040'
+    }
+]
+[요괴 워치] http://www.anissia.net/anitime/cap?i=1496
+[
+    {
+        'a': 'blog.naver.com/irena403',
+        'd': '20140611184506',
+        'n': '호두와 깨알',
+        's': '00210'
+    }
+]
+[크레용 신짱] http://www.anissia.net/anitime/cap?i=362
+[
+ 
+]
+[Bonjour♪사랑맛 파티스리] http://www.anissia.net/anitime/cap?i=3242
+[
+    {
+        'a': 'hoon2world.egloos.com/9665156',
+        'd': '20150131223900',
+        'n': '훈이',
+        's': '00170'
+    }
+][토]
+
+[아이돌 마스터 신데렐라 걸즈] http://www.anissia.net/anitime/cap?i=3121
+[
+    {
+        'a': 'kwangwaul.egloos.com/5864473',
+        'd': '20150131120856',
+        'n': '여니',
+        's': '00040'
+    },
+    {
+     'a': '346.kor.sub', 'd': '20150131120000', 'n': '라피', 's': '00040'
+ },
+    {
+        'a': 'blog.naver.com/recog_/220258071476',
+        'd': '20150131022408',
+        'n': '쿄우',
+        's': '00040'
+    },
+    {
+        'a': 'kiribasi.moe/147',
+        'd': '20150124114710',
+        'n': '키리바시',
+        's': '00030'
+    }
+]
+[죠죠의 기묘한 모험 스타더스트 크루세이더즈 이집트편] http://www.anissia.net/anitime/cap?i=3329
+[
+    {
+        'a': 'songoten151.blog.me/220250739284',
+        'd': '20150203044800',
+        'n': '가니스',
+        's': '00040'
+    },
+    {
+     'a': '', 'd': '20150131112725', 'n': 'Sket', 's': '00040'
+ }
+]
+[암살교실] http://www.anissia.net/anitime/cap?i=3206
+[
+    {
+        'a': 'blog.naver.com/noh0058/220258393563',
+        'd': '20150131144142',
+        'n': '트리플에이',
+        's': '00030'
+    },
+    {
+        'a': 'blog.naver.com/baby1255/220251254881',
+        'd': '20150125012617',
+        'n': '파Oi',
+        's': '00030'
+    },
+    {
+        'a': 'fuko.tistory.com/1575',
+        'd': '20150124134551',
+        'n': 'stankovic',
+        's': '00030'
+    }
+]
+[가로<GARO> - 불꽃의 각인] http://www.anissia.net/anitime/cap?i=1515
+[
+    {
+        'a': 'blog.naver.com/seokkang87/220215348925',
+        'd': '20141220050521',
+        'n': 'seokkang',
+        's': '00120'
+    },
+    {
+        'a': 'blog.naver.com/cobb333/220258287939',
+        'd': '00000000000000',
+        'n': 'THE빅오',
+        's': '00160'
+    }
+]
+[ISUCA (이스카)] http://www.anissia.net/anitime/cap?i=3223
+[
+    {
+        'a': 'chouryou.blog.me/220258117063',
+        'd': '20150131052500',
+        'n': '쵸우료우',
+        's': '00020'
+    }
+]
+[데스・퍼레이드] http://www.anissia.net/anitime/cap?i=3312
+[
+    {
+        'a': 'hakerano.blog.fc2.com/',
+        'd': '20150131044702',
+        'n': '하케라노',
+        's': '00040'
+    },
+    {
+     'a': 'bbmi.kr', 'd': '20150131043831', 'n': '불법미인', 's': '00040'
+ }
+]
+[철인 28호 가오!] http://www.anissia.net/anitime/cap?i=368
+[
+ 
+]
+[퓨쳐 카드 버디파이트] http://www.anissia.net/anitime/cap?i=663
+[
+ 
+]
+[프리파라] http://www.anissia.net/anitime/cap?i=3146
+[
+    {
+        'a': 'cndska15.blog.me/220258724505',
+        'd': '20150131212828',
+        'n': '코야레인',
+        's': '00300'
+    }
+]
+[FAIRY TAIL] http://www.anissia.net/anitime/cap?i=1525
+[
+    {
+        'a': 'tosso.kr/category/%ED%8E%98%EC%96%B4%EB%A6%AC%20%ED%85%8C%EC%9D%BC',
+        'd': '20140607162620',
+        'n': 'Tosso',
+        's': '01850'
+    },
+    {
+        'a': 'katori-rea.tistory.com/305',
+        'd': '20130000000000',
+        'n': 'katori rea',
+        's': '01750'
+    }
+]
+[로그 호라이즌 2기] http://www.anissia.net/anitime/cap?i=3113
+[
+    {
+        'a': 'blog.naver.com/wdrop14/220258738032',
+        'd': '20150131214148',
+        'n': '싯쭈',
+        's': '00170'
+    }
+]
+[매직 카이토 1412] http://www.anissia.net/anitime/cap?i=3236
+[
+    {
+        'a': 'ta2hisa.tistory.com/85',
+        'd': '20150202161310',
+        'n': '리안',
+        's': '00120'
+    },
+    {
+        'a': 'blog.naver.com/ok10701',
+        'd': '20150201023856',
+        'n': '비누',
+        's': '00160'
+    }
+]
+[명탐정 코난] http://www.anissia.net/anitime/cap?i=1374
+[
+    {
+        'a': 'blog.naver.com/ok10701',
+        'd': '20150131201722',
+        'n': '비누',
+        's': '07660'
+    },
+    {
+        'a': 'blog.naver.com/ripper450',
+        'd': '20130409014800',
+        'n': '108',
+        's': '01080'
+    }
+]
+[미소녀전사 세일러문 Crystal] http://www.anissia.net/anitime/cap?i=1485
+[
+    {
+        'a': 'kwangwaul.egloos.com/5862786',
+        'd': '20150118013035',
+        'n': '여니',
+        's': '00140'
+    }
+]
+[산적의 딸 로냐] http://www.anissia.net/anitime/cap?i=3183
+[
+    {
+        'a': 'qun202.blog.me/220258988548',
+        'd': '20150125121000',
+        'n': '키데',
+        's': '00180'
+    }
+]
+[소년 할리우드 -HOLLY STAGE FOR 50-] http://www.anissia.net/anitime/cap?i=3266
+[
+    {
+        'a': 'spinel.egloos.com/5265366',
+        'd': '20150131232132',
+        'n': '스피넬',
+        's': '00170'
+    }
+]
+[탐정 오페라 밀키 홈즈 TD] http://www.anissia.net/anitime/cap?i=3261
+[
+    {
+        'a': 'blog.naver.com/qtr01122/220263291519',
+        'd': '20150205053402',
+        'n': '카이란',
+        's': '00050'
+    },
+    {
+        'a': 'kannasub.tistory.com/entry/탐정가극-밀키홈즈-TD-4화-자막',
+        'd': '20150125143104',
+        'n': 'kanna',
+        's': '00040'
+    }
+]
+[듀라라라!!ⅹ2] http://www.anissia.net/anitime/cap?i=3098
+[
+    {
+     'a': 'r-kai.wo.tc', 'd': '20150201070017', 'n': 'Alvarez', 's': '00040'
+ },
+    {
+     'a': 'bbmi.kr', 'd': '20150201031935', 'n': '불법미인', 's': '00040'
+ }
+]

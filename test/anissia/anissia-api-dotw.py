@@ -8,8 +8,8 @@ import json
 import requests as rq
 #from urllib.parse import urlparse, urlunparse, parse_qs
 #from bs4 import BeautifulSoup
-from lxml import etree
-etree.namespaces = dict(re="http://exslt.org/regular-expressions")
+#from lxml import etree
+#etree.namespaces = dict(re="http://exslt.org/regular-expressions")
 
 #import hashlib
 #def md5(s):
