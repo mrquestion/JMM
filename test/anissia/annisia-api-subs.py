@@ -20,13 +20,13 @@ def pf(s): return pprint.pformat(s, indent=4, width=80)
 class objdict(dict):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
- 
+
     def __getattr__(self, key):
         return self[key] if key in self.keys() else None
- 
+
     def __setattr__(self, key, value):
         self[key] = value
- 
+
     def __str__(self):
         return "<objdict {}>".format(super().__str__())
 
