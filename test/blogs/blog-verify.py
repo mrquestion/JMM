@@ -72,7 +72,7 @@ def test(url, filename='.'.join([ __file__, timestamp("%Y%m%d%H%M%S"), "txt" ]))
     elif re.match(r".*blog\.fc2\.com", p.netloc) is not None:
         result.append(" - FC2")
     else:
-        if re.match(r"^/xe/", p.path):
+        if p.path.startswith("/xe/"):
             result.append(" - XE")
         else:
             root = get_root_node(url)
