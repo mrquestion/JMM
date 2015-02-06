@@ -20,29 +20,6 @@ def pf(s): return pprint.pformat(s, indent=4, width=80)
 #def ppargs(f): pp(args(f))
 #def ppmems(o): pp(mems(o))
 
-class objdict(dict):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-
-    def __getattr__(self, key):
-        return self[key] if key in self.keys() else None
-
-    def __setattr__(self, key, value):
-        self[key] = value
-
-    def __str__(self):
-        return "<objdict {}>".format(super().__str__())
-
-def fix_indent(s):
-    s = re.sub(r"(\[)", "\\1\n ", s)
-    s = re.sub(r"(\])", "\n\\1", s)
-    s = re.sub(r"({)", "\\1\n     ", s)
-    s = re.sub(r"((\s*)(\s{4}))(.*)(},?)", "\\1\\4\\2\\5", s)
-    return s
-
-URL_FORMAT = "http://www.anissia.net/anitime/list?w={}"
-DOTW = [ "일", "월", "화", "수", "목", "금", "토" ]
-
 def get_root_node(url):
     rs = rq.get(url)
     return etree.HTML(rs.content if rs.ok else "<error/>")
