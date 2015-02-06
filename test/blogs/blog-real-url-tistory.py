@@ -32,7 +32,7 @@ def get_real_url(url):
         return url
     else:
         root = get_root_node(url)
-        scripts = root.xpath('//script[re:test(text(),"__pageTracker")]', namespaces=etree.namespaces)
+        scripts = root.xpath('//script[contains(text(),"__pageTracker")]')
         for x in scripts:
             svcdomain = author = None
             for m in re.finditer(r'\s+__pageTracker\.__addParam\("([^"]+)".*,.*"([^"]+)"\);.*', x.text):
