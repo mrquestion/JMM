@@ -39,10 +39,10 @@ def get_real_url(url):
             return urlunparse([ a, b, c, d, e, f ])
         else:
             root = get_root_node(url)
-            naver = root.xpath('//frame[@id="mainFrame" and @src]')
-            if len(naver) > 0:
+            frames = root.xpath('//frame[@id="mainFrame" and @src]')
+            if len(frames) > 0:
                 a, b, c, d, e, f = p
-                src = naver[0].get("src")
+                src = frames[0].get("src")
                 p = urlparse(src)
                 if len(p.scheme) > 0:
                     c = p.path
@@ -56,10 +56,10 @@ def get_real_url(url):
                     return urlunparse([ a, b, c, d, e, f ])
     else:
         root = get_root_node(url)
-        naver = root.xpath('//frame[@id="screenFrame" and @src]')
-        if len(naver) > 0:
+        frames = root.xpath('//frame[@id="screenFrame" and @src]')
+        if len(frames) > 0:
             a, b, c, d, e, f = p
-            src = naver[0].get("src")
+            src = frames[0].get("src")
             p = urlparse(src)
             if len(p.scheme) > 0:
                 c = p.path
