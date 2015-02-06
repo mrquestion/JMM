@@ -24,10 +24,6 @@ def get_root_node(url):
     rs = rq.get(url)
     return etree.HTML(rs.content if rs.ok else "<error/>")
 
-def get_json_data(url):
-    rs = rq.get(url)
-    return json.loads(rs.text if rs.ok and rs.text is not None else "[]")
-
 def get_real_url(url):
     p = urlparse(url)
     qs = parse_qs(p.query)
