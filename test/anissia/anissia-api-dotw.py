@@ -17,8 +17,8 @@ import requests as rq
 #   return e.hexdigest()
 
 import time, datetime
-def timestamp(format="%Y%m%d-%H%M%S", time=time.time(), rfc=None):
-    return datetime.datetime.fromtimestamp(time).strftime(format)
+def timestamp(format="%Y%m%d-%H%M%S"):
+    return datetime.datetime.fromtimestamp(time.time()).strftime(format)
 
 #import ctypes
 #def alert(s, title="Test"):

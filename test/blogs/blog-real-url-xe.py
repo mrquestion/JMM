@@ -9,8 +9,8 @@ from lxml import etree
 etree.namespaces = dict(re="http://exslt.org/regular-expressions")
 
 import time, datetime
-def timestamp(format="%Y%m%d-%H%M%S", time=time.time(), rfc=None):
-    return datetime.datetime.fromtimestamp(time).strftime(format)
+def timestamp(format="%Y%m%d-%H%M%S"):
+    return datetime.datetime.fromtimestamp(time.time()).strftime(format)
 
 import inspect, pprint
 #def args(f): return inspect.getargspec(f)
